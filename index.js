@@ -1,4 +1,6 @@
-// Déclaration de la liste des taches
+alert ("Bonjour, soyez cool sur la note, \n j'ai raté beaucoup d'heures de sommeil sur ce cours 😁")
+
+// Déclaration de la liste des taches 
 
 let listeDeTaches = [];
 
