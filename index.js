@@ -1,5 +1,5 @@
 // Déclaration de la liste des taches 
-
+                                       // rien a dire  
 let listeDeTaches = [];
 
 
@@ -47,3 +47,6 @@ boutonAjouter.addEventListener("click", () => {
 
 // Affichage initial des tâches (si le tableau n'est pas vide au chargement de la page)
 afficherTaches(); 
+
+
+//note  20/20
